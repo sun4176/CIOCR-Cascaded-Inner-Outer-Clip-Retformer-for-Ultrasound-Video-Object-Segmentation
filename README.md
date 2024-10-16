@@ -1,4 +1,5 @@
 # CIOCR
+# Cascaded Inner-Outer Clip Retformer for Ultrasound Video Object Segmentation
 # Note: Due to the ethical review and authorization processes within the relevant hospital and organization, the dataset and code are currently for demonstration purposes only.
 # The complete dataset and the code will be publicly available after the paper is published.
 ![alt text](image_blend/image_blend.png)
